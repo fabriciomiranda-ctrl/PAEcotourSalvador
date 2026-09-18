@@ -1,4 +1,4 @@
-# 🌍 EcoTravel: Turismo Interativo e Sustentável
+# 🌍 EcoTour: Turismo Interativo e Sustentável
 
 > Um aplicativo interativo desenvolvido para guiar turistas em jornadas conscientes, promovendo o turismo local sustentável e incentivando a consciência sustentável em comunidades
 
